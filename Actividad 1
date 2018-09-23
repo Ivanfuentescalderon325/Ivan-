@@ -11,7 +11,7 @@ Persona (string _nombre; unsigned short int _edad; unsigned short int _altura)
 {
 
 nombre = _nombre;
-unisgned short edad;
+unsigned short edad;
 unsigned short altura;
 
 };
